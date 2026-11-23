@@ -1,5 +1,26 @@
 ## Hi there 👋
+Hi, I'm [Sneha] 👋
+🎓 B.E Extc Graduate
 
+💻 Aspiring Software Tester
+
+🎯 Looking for internship opportunities to gain practical experience and improve my technical skills.
+
+About Me
+EXTC Engineering graduate.
+Interested in software Testing.
+Currently building beginner-friendly projects.
+Always excited to learn new technologies. 
+
+Skills
+HTML (Learning)
+CSS (Learning)
+JavaScript (Learning)
+Python (Learning)
+Git & GitHub (Learning)
+
+Projects
+Personal Portfolio Website – Coming Soon!
 <!--
 **patilsneha371-alt/patilsneha371-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
